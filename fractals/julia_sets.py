@@ -1,4 +1,4 @@
-"""Author Alexandre De Zotti
+"""Pauli
 
 Draws Julia sets of quadratic polynomials and exponential maps.
  More specifically, this iterates the function a fixed number of times
