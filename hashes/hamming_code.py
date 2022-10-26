@@ -1,7 +1,3 @@
-# Author: João Gustavo A. Amorim & Gabriel Kunz
-# Author email: joaogustavoamorim@gmail.com and gabriel-kunz@uergs.edu.br
-# Coding date:  apr 2019
-# Black: True
 
 """
     * This code implement the Hamming code:
