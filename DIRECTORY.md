@@ -45,6 +45,7 @@
   * [Count 1S Brian Kernighan Method](bit_manipulation/count_1s_brian_kernighan_method.py)
   * [Count Number Of One Bits](bit_manipulation/count_number_of_one_bits.py)
   * [Gray Code Sequence](bit_manipulation/gray_code_sequence.py)
+  * [Is Even](bit_manipulation/is_even.py)
   * [Reverse Bits](bit_manipulation/reverse_bits.py)
   * [Single Bit Manipulation Operations](bit_manipulation/single_bit_manipulation_operations.py)
 
@@ -54,6 +55,7 @@
   * [Modular Division](blockchain/modular_division.py)
 
 ## Boolean Algebra
+  * [And Gate](boolean_algebra/and_gate.py)
   * [Norgate](boolean_algebra/norgate.py)
   * [Quine Mc Cluskey](boolean_algebra/quine_mc_cluskey.py)
 
@@ -360,6 +362,7 @@
   * [Dijkstra](graphs/dijkstra.py)
   * [Dijkstra 2](graphs/dijkstra_2.py)
   * [Dijkstra Algorithm](graphs/dijkstra_algorithm.py)
+  * [Dijkstra Alternate](graphs/dijkstra_alternate.py)
   * [Dinic](graphs/dinic.py)
   * [Directed And Undirected (Weighted) Graph](graphs/directed_and_undirected_(weighted)_graph.py)
   * [Edmonds Karp Multiple Source And Sink](graphs/edmonds_karp_multiple_source_and_sink.py)
@@ -460,6 +463,8 @@
   * [Similarity Search](machine_learning/similarity_search.py)
   * [Support Vector Machines](machine_learning/support_vector_machines.py)
   * [Word Frequency Functions](machine_learning/word_frequency_functions.py)
+  * [Xgboost Classifier](machine_learning/xgboost_classifier.py)
+  * [Xgboost Regressor](machine_learning/xgboost_regressor.py)
 
 ## Maths
   * [3N Plus 1](maths/3n_plus_1.py)
@@ -534,6 +539,7 @@
   * [Line Length](maths/line_length.py)
   * [Lucas Lehmer Primality Test](maths/lucas_lehmer_primality_test.py)
   * [Lucas Series](maths/lucas_series.py)
+  * [Maclaurin Series](maths/maclaurin_series.py)
   * [Matrix Exponentiation](maths/matrix_exponentiation.py)
   * [Max Sum Sliding Window](maths/max_sum_sliding_window.py)
   * [Median Of Two Arrays](maths/median_of_two_arrays.py)
@@ -579,6 +585,7 @@
     * [P Series](maths/series/p_series.py)
   * [Sieve Of Eratosthenes](maths/sieve_of_eratosthenes.py)
   * [Sigmoid](maths/sigmoid.py)
+  * [Signum](maths/signum.py)
   * [Simpson Rule](maths/simpson_rule.py)
   * [Sin](maths/sin.py)
   * [Sock Merchant](maths/sock_merchant.py)
@@ -587,6 +594,7 @@
   * [Sum Of Arithmetic Series](maths/sum_of_arithmetic_series.py)
   * [Sum Of Digits](maths/sum_of_digits.py)
   * [Sum Of Geometric Progression](maths/sum_of_geometric_progression.py)
+  * [Sum Of Harmonic Series](maths/sum_of_harmonic_series.py)
   * [Sylvester Sequence](maths/sylvester_sequence.py)
   * [Test Prime Check](maths/test_prime_check.py)
   * [Trapezoidal Rule](maths/trapezoidal_rule.py)
@@ -832,6 +840,8 @@
   * Problem 072
     * [Sol1](project_euler/problem_072/sol1.py)
     * [Sol2](project_euler/problem_072/sol2.py)
+  * Problem 073
+    * [Sol1](project_euler/problem_073/sol1.py)
   * Problem 074
     * [Sol1](project_euler/problem_074/sol1.py)
     * [Sol2](project_euler/problem_074/sol2.py)
@@ -867,6 +877,8 @@
     * [Sol1](project_euler/problem_101/sol1.py)
   * Problem 102
     * [Sol1](project_euler/problem_102/sol1.py)
+  * Problem 104
+    * [Sol1](project_euler/problem_104/sol1.py)
   * Problem 107
     * [Sol1](project_euler/problem_107/sol1.py)
   * Problem 109
@@ -936,8 +948,10 @@
   * [Not Gate](quantum/not_gate.py)
   * [Q Full Adder](quantum/q_full_adder.py)
   * [Quantum Entanglement](quantum/quantum_entanglement.py)
+  * [Quantum Random](quantum/quantum_random.py)
   * [Ripple Adder Classic](quantum/ripple_adder_classic.py)
   * [Single Qubit Measure](quantum/single_qubit_measure.py)
+  * [Superdense Coding](quantum/superdense_coding.py)
 
 ## Scheduling
   * [First Come First Served](scheduling/first_come_first_served.py)
@@ -1027,7 +1041,6 @@
   * [Can String Be Rearranged As Palindrome](strings/can_string_be_rearranged_as_palindrome.py)
   * [Capitalize](strings/capitalize.py)
   * [Check Anagrams](strings/check_anagrams.py)
-  * [Check Pangram](strings/check_pangram.py)
   * [Credit Card Validator](strings/credit_card_validator.py)
   * [Detecting English Programmatically](strings/detecting_english_programmatically.py)
   * [Dna](strings/dna.py)
@@ -1036,6 +1049,8 @@
   * [Indian Phone Validator](strings/indian_phone_validator.py)
   * [Is Contains Unique Chars](strings/is_contains_unique_chars.py)
   * [Is Palindrome](strings/is_palindrome.py)
+  * [Is Pangram](strings/is_pangram.py)
+  * [Is Spain National Id](strings/is_spain_national_id.py)
   * [Jaro Winkler](strings/jaro_winkler.py)
   * [Join](strings/join.py)
   * [Knuth Morris Pratt](strings/knuth_morris_pratt.py)
@@ -1080,6 +1095,7 @@
   * [Fetch Well Rx Price](web_programming/fetch_well_rx_price.py)
   * [Get Imdb Top 250 Movies Csv](web_programming/get_imdb_top_250_movies_csv.py)
   * [Get Imdbtop](web_programming/get_imdbtop.py)
+  * [Get Top Billioners](web_programming/get_top_billioners.py)
   * [Get Top Hn Posts](web_programming/get_top_hn_posts.py)
   * [Get User Tweets](web_programming/get_user_tweets.py)
   * [Giphy](web_programming/giphy.py)
